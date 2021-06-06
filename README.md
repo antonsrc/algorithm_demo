@@ -7,4 +7,4 @@ Algorithm taken from book "Algorithms in a Nutshell", Second Edition, George T. 
 Реализация алгоритма в текстовом (консольном) режиме.
 
 # demo (vimeo)
-[(//placehold.it/150x100)](https://vimeo.com/559614923)
+[![](//placehold.it/150x100)](https://vimeo.com/559614923/)
