@@ -7,4 +7,4 @@ Algorithm taken from book "Algorithms in a Nutshell", Second Edition, George T. 
 Реализация алгоритма в текстовом (консольном) режиме.
 
 # demo (vimeo)
-[![](https://github.com/antonsrc/1_algorithm_demo_1/blob/main/out/preview.jpg?raw=true)](https://vimeo.com/559614923/)
+[![](https://github.com/antonsrc/1_algorithm_demo_1/blob/main/out/prev.jpg?raw=true)](https://vimeo.com/559614923/)
