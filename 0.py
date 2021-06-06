@@ -50,22 +50,22 @@ STEPS = int(1 + math.log(NUM_OBJS, 2))
 print("Maximum number of steps: " + str(STEPS) + "\n")
 
 # Set dimensions of frames
-FR_DIM_X = 1000
-FR_DIM_Y = 1000
+FR_DIM_X = 1080
+FR_DIM_Y = 1080
 
 # Set step
 STEP_ = 72
 
 # Set timeline (if FR_START = 1, so FR_END will define number of frames):
 FR_START = 1
-FR_END = STEP_*STEPS
-# FR_END = 1
+# FR_END = STEP_*STEPS
+FR_END = 2
 
 # Activating show telemetry:
 TELEMETRY_SHOW = True
 
 # Activating animation:
-ANIM = True
+ANIM = False
 
 
 def degrees_to_radians(x,y,z):
@@ -348,7 +348,7 @@ export_image_settings(
     FR_END,
     FR_DIM_X,
     FR_DIM_Y,
-    16,
+    32,
     TELEMETRY_SHOW,
     ANIM) # 64
 
