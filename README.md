@@ -6,5 +6,5 @@ Algorithm taken from book "Algorithms in a Nutshell", Second Edition, George T. 
 # plus.py
 Реализация алгоритма в текстовом (консольном) режиме.
 
-# demo (vimeo)
-[![](https://github.com/antonsrc/1_algorithm_demo_1/blob/main/out/prev.jpg?raw=true)](https://vimeo.com/559614923/)
+# demo (snap)
+![](https://github.com/antonsrc/1_algorithm_demo_1/blob/main/out/prev.jpg?raw=true)
