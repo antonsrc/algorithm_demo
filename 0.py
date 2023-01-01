@@ -1,6 +1,6 @@
 #   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *   *
 # 
-# Name: algorithm demo 1
+# Name: algorithm demo
 # Version (date): 2021_06_04
 # Author: Moshnyakov Anton
 # E-mail: anton.source@gmail.com
@@ -19,7 +19,7 @@ from pathlib import Path
 # Two way for script running:
 # 
 # 1 Write in console:
-# blender --background --python 0.py
+# blender --background --python main.py
 # where "blender" is directory of executable file of Blender
 # in PATH in Environment variable
 # (Win + R > SystemPropertiesAdvanced > Environment variable)
